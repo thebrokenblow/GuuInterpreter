@@ -1,6 +1,6 @@
 namespace GuuInterpreter.Model.Instructions.Interfaces;
 
 public interface IGuuInstruction
-{ 
-    void Execute(string[] arguments);
+{
+    void Execute(string[] argumentsInstruction);
 }

@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\GuuInterpreter.Model\GuuInterpreter.Model.csproj" />
+    </ItemGroup>
+
 </Project>
