@@ -1,13 +1,43 @@
 ﻿# Default ignored files
 /shelf/
 /workspace.xml
+
 # Rider ignored files
+.idea/
+*.iml
+out/
 /.idea.GuuInterpreter.iml
 /contentModel.xml
 /projectSettingsUpdater.xml
 /modules.xml
+
 # Editor-based HTTP Client requests
 /httpRequests/
+
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NuGet Packages
+packages/
+
+# Other
+*.cache
